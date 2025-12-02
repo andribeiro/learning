@@ -34,6 +34,7 @@ public final class Birthdays {
         System.out.println(duration.toDays() + " days ");
         System.out.println(duration.toHours() + " hours ");
         System.out.println(duration.toMinutes() + " minutes ");
+        System.out.println(duration.toDays() / 7 + " weeks ");
         System.out.println();
     }
 
